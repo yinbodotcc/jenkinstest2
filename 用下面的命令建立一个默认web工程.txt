@@ -1,0 +1,1 @@
+mvn archetype:generate -DgroupId=nl.berg.packt.simplewar -DartifactId=simplewar -Dversion=1.0-SNAPSHOT -DarchetypeArtifactId=maven-archetype-webapp
